@@ -1,5 +1,5 @@
 # Angular Student Roster App
-### _A user orders a pizza...what happens next...you decide.  The only thing which is definitely true is you will NOT recieve a pizza at the end of it._
+### _An app that allows a user to add students to a roster, user is able to search for specific students, add new students and update and delete students_
 ### By Mike Chastain and Ben Spenard
 ## Description
 _Clone into local repo and open index.html in the browser_
