@@ -1,6 +1,6 @@
 # Angular Student Roster App
 ### _An app that allows a user to add students to a roster, user is able to search for specific students, add new students and update and delete students_
-### By Mike Chastain and Ben Spenard
+### By Mike Chastain, Ben Spenard and Alexandra Brown
 ## Description
 _Clone into local repo and open index.html in the browser_
 
@@ -8,7 +8,7 @@ _Clone into local repo and open index.html in the browser_
 _Angular.js, Javascript, Bootstrap_
 
 ### Legal
-Copyright (c) 2015 Mike Chastain & Ben Spenard
+Copyright (c) 2015 Mike Chastain & Ben Spenard & Alexandra Brown
 
 This software is licensed under the MIT license.
 
