@@ -1,5 +1,5 @@
 # Angular Student Roster App
-### _An app that allows a user to add students to a roster, user is able to search for specific students, add new students and update and delete students_
+### _An app that allows a user to organize a roster of students going on a field trip. User can add students to a roster, and is able to search for specific students, add new students and update and delete students.  They can also check to see if students have a permission slip._
 ### By Mike Chastain, Ben Spenard and Alexandra Brown
 ## Description
 _Clone into local repo and open index.html in the browser_
