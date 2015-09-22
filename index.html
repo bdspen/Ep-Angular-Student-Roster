@@ -4,11 +4,13 @@
   <title>Student App</title>
   <script src="lib/angular.js"></script>
   <script src="app.js"></script>
-  <script src="js/StudentsController.js"></script>
+  <script src="controllers/StudentsController.js"></script>
+  <script src="controllers/FieldTripsController.js"></script>
   <link rel="stylesheet" href="css/bootstrap.min.css">
 </head>
 <body>
-    <div class="container" ng-controller="StudentsCtrl">
+    <div class="container">
+      <div  ng-controller="StudentsCtrl">
         <div class="row" ng-show="students.length">
             <div class="col-md-12">
                 <h4>Search Students</h4>
@@ -46,6 +48,18 @@
                     <button type="submit" class="btn btn-default">Submit</button>
                 </form>
             </div>
+          </div>
+        </div>
+            <div class="row permission">
+             <div class="col-md-6">
+               <h2>Permission Slips</h2>
+               <ul>
+                 <li ng-repeat="item in studentsWithPermission">
+                   {{item.name}}
+                 </li>
+               </ul>
+             </div>
+           </div>
         </div>
     </div>
 </body>
